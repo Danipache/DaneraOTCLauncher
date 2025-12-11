@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "15.20.800705",
-	"launcherVersion": "1.0",
+	"launcherVersion": "2.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
