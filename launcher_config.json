@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		},
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/Danipache/DaneraLauncherClient/releases/download/v15.20.800705/15.20.800705.zip",
+	"newClientUrl" : "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.20.800705.zip",
 	"clientExecutable": "Danera OTClient.exe"
 }
