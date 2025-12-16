@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.20.800871",
+	"clientVersion": "15.20.800873",
 	"launcherVersion": "2.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		},
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.20.800871.zip",
+	"newClientUrl" : "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.20.800873.zip",
 	"clientExecutable": "Danera OTClient.exe"
 }
