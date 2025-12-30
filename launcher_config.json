@@ -1,5 +1,5 @@
 {
-	"clientVersion": "15.20.923722",
+	"clientVersion": "15.20.923725",
 	"launcherVersion": "2.0.3",
 	"newLauncherUrl": "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DaneraLauncherv2.0.3.exe",
 	"replaceFolders": true,
@@ -15,6 +15,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.20.923722.zip",
+	"newClientUrl" : "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.20.923725.zip",
 	"clientExecutable": "Danera OTClient.exe"
 }
