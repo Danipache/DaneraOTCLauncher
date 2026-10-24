@@ -1,5 +1,5 @@
 {
-	"clientVersion": "15.32.012717",
+	"clientVersion": "15.32.019629",
 	"launcherVersion": "2.0.3",
 	"newLauncherUrl": "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DaneraLauncherv2.0.3.exe",
 	"replaceFolders": true,
@@ -15,6 +15,7 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.32.012717.zip",
-	"clientExecutable": "Danera OTClient.exe"
+	"newClientUrl": "https://github.com/Danipache/DaneraOTCLauncher/releases/download/DTC/DTCv15.32.019629.zip",
+	"clientExecutable": "Danera OTClient.exe",
+	"manifestUrl": "https://github.com/Danipache/DaneraOTCLauncher/releases/download/files/manifest-15.32.019629.json"
 }
